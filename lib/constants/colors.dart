@@ -12,6 +12,8 @@ class ColorConstant{
   static  Color gray3 = const  Color(0xff828282);
   static  Color releaseButtonColor = const  Color(0xffF2994A);
   static  Color refundButtonColor = const  Color(0xff4A6FF2);
+  static  Color endedColor = const  Color(0xffBB6BD9);
+  static  Color releasePayment = const  Color(0xff4A6FF2);
 
 }
 
